@@ -13,19 +13,14 @@ Télécharger et installer XAMPP : https://www.apachefriends.org/fr/download.htm
 
 Copier le dossier philaboard dans le répertoire :
 
-makefile
-Copier
-Modifier
 C:\xampp\htdocs\
 Lancer le panneau de contrôle XAMPP et démarrer Apache.
 
 Ouvrir un navigateur et aller à l’adresse :
 
-arduino
-Copier
-Modifier
 http://localhost/philaboard
-Utilisation
+
+# Utilisation
 Utiliser le panneau Philaboard pour naviguer entre les trois catégories et gérer la collection.
 
 # Licence
