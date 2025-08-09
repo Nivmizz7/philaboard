@@ -1,4 +1,4 @@
-Philaboard
+## Philaboard
 Philaboard est une application web en PHP pour gérer une collection de timbres.
 Elle permet de classer les timbres dans trois catégories :
 
@@ -8,7 +8,7 @@ Disponible : timbres en double ou à échanger
 
 Manquant : timbres recherchés
 
-Installation
+# Installation
 Télécharger et installer XAMPP : https://www.apachefriends.org/fr/download.html
 
 Copier le dossier philaboard dans le répertoire :
@@ -28,5 +28,5 @@ http://localhost/philaboard
 Utilisation
 Utiliser le panneau Philaboard pour naviguer entre les trois catégories et gérer la collection.
 
-Licence
+# Licence
 Ce projet est distribué sous licence MIT.
